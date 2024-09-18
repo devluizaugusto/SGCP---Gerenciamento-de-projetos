@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "id": "bf92",
+      "name": "Desenvolvimento de aplicação WEB para uma locadora de veiculos",
+      "budget": "12000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "ad91",
+      "name": "Instalação de internet no prédio da prefeitura de Limoeiro-PE",
+      "budget": "4000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
