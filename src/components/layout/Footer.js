@@ -24,7 +24,7 @@ function Footer() {
                 </li>
             </ul>
             <p className={styles.copyRight}>
-                <span>Costs</span> &copy; 2024
+                <span>SGCP - Sistema de Gerênciamento de custos em Projetos</span> &copy; 2024
             </p>
         </footer>
     );
