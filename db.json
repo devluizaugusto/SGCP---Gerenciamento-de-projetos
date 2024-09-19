@@ -1,23 +1,12 @@
 {
   "projects": [
     {
-      "id": "bf92",
-      "name": "Desenvolvimento de aplicação WEB para uma locadora de veiculos",
-      "budget": "12000",
+      "id": "580f",
+      "name": "Teste",
+      "budget": "5000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "5f24",
-      "name": "Projeto para planejamento de infraestrutura da industria da Ambev",
-      "budget": "760",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
       },
       "cost": 0,
       "services": []
@@ -25,19 +14,19 @@
   ],
   "categories": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Infra"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Desenvolvimento"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Design"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Planejamento"
     }
   ]
