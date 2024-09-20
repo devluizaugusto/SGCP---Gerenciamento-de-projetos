@@ -8,8 +8,21 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": []
+      "cost": 7000,
+      "services": [
+        {
+          "name": "Meu novo serviço",
+          "cost": "3500",
+          "description": "Faz isso aqui",
+          "id": "96cb1264-0598-45dd-ab6a-cce9f0dcd81e"
+        },
+        {
+          "name": "Meu novo serviço 2",
+          "cost": "3500",
+          "description": "Faz isso aqui",
+          "id": "41ed34b6-359d-4c58-a429-92adf9997503"
+        }
+      ]
     }
   ],
   "categories": [
