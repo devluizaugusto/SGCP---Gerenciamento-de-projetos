@@ -18,3 +18,7 @@
 .formControl input::placeholder {
     color: #4d4a4a;
 }
+
+.formControl input:focus-visible {
+    outline: none;
+}
